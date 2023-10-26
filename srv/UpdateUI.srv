@@ -1,0 +1,14 @@
+geometry_msgs/Point[] fs_start
+geometry_msgs/Point[] fs_end
+geometry_msgs/Point[] fs_t
+geometry_msgs/Point[] fs_c
+geometry_msgs/Point[] pl_t
+geometry_msgs/Point[] pl_r
+geometry_msgs/Point[] arrowedline_t
+geometry_msgs/Point[] arrowedcurve_r
+geometry_msgs/Point[] sm_lines
+geometry_msgs/Point[] cnr_t
+int8[] matched_t
+string description
+---
+bool update_success

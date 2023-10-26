@@ -1,0 +1,8 @@
+float64 start_x
+float64 start_y
+float64 start_theta
+float64 target_x
+float64 target_y
+float64 target_theta
+---
+PathPoint[] path
